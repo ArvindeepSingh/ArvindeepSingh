@@ -1,6 +1,6 @@
 ## Hi There!
 
-• 👋 My name is Arvindeep, but you can feel free to call me Avi<br/>
+• 👋 My name is Arvindeep, but you can feel free to call me Avi.<br/>
 • 📚 I'm currently a student attending Queens College and studying Computer Science.<br/>
 • 🌟 I'm always eager to learn about new tools and technologies.<br/>
 • 🗽 I reside within New York and I'm always open to new opportunities.<br/>
